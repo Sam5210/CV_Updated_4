@@ -347,6 +347,7 @@ p{
     }
     .clickable{
         background-color: royalblue;
+        border-top-color: royalblue;
     }
     .CV-intro{
         color: black;
