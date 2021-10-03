@@ -226,7 +226,7 @@ p{
     vertical-align: -400%; 
 }
 .river-background{
-    background-image: url(images/River.jpg);
+    background-image: url(images/River04.jpg);
 }
 #red-black-tree{
     float: left;
@@ -415,7 +415,7 @@ p{
         background-color: moccasin;
     }
     .river-background{
-        background-color: skyblue;
+        background-color: turquoise;
     }
     .hillside-background, .lake-background, .river-background, .valley-background{
         background-image: none;
