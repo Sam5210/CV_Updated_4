@@ -109,8 +109,7 @@ body{
 .gameplay-button{
     font-size: 150%;
     font-weight: bold;
-    color: orangered;
-    background-color: royalblue;
+    color: royalblue;
 }
 hr{
     border-top-color: orangered;
