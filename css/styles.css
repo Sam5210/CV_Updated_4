@@ -109,7 +109,7 @@ body{
 .gameplay-button{
     font-size: 150%;
     font-weight: bold;
-    color: royalblue;
+    color: orange;
 }
 hr{
     border-top-color: orangered;
@@ -347,7 +347,7 @@ p{
     }
     .clickable{
         background-color: royalblue;
-        border-top-color: royalblue;
+        border-color: royalblue;
     }
     .CV-intro{
         color: black;
