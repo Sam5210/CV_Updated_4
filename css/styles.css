@@ -28,7 +28,7 @@ body{
 .clickable{
     margin: 3% 7%;
     padding: 5% 2%;
-    border-color: aqua;
+    border-color: orangered;
     border-style: solid;
     border-width: 0.12rem;
     border-radius: 1rem;
