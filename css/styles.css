@@ -60,13 +60,6 @@ body{
     animation-duration: 32s;
     animation-iteration-count: infinite;
 }
-.contact-me-button {
-    border: 0;
-    line-height: 1.5;
-    border-radius: 1rem;
-    padding: 0 0.75rem;
-    background-color: violet;
-}
 #copyright{
     font-size: 60%;
 }
@@ -99,6 +92,9 @@ body{
 }
 .CV-page-h3{
     color: seagreen;
+}
+.fa-facebook-f, .fa-instagram, .fa-home, .contact-me-button{
+    color: royalblue;
 }
 #footer{
     line-height: 1.5;
