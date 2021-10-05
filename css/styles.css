@@ -93,6 +93,11 @@ body{
 .CV-page-h3{
     color: seagreen;
 }
+.delimit hr{
+    border-top-color: orangered;
+    margin-top: auto;
+    margin-bottom: auto;
+}
 .fa-facebook-f, .fa-instagram, .fa-home, .contact-me-button{
     color: royalblue;
 }
@@ -117,11 +122,6 @@ hr{
     /* border-top-color: darkslategrey; */
     border-width: 0.5rem;
     width: 10rem;
-}
-.delimit hr{
-    border-top-color: orangered;
-    margin-top: auto;
-    margin-bottom: auto;
 }
 h1{
     font-family: "Tangerine", serif;
