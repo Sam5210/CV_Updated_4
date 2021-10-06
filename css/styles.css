@@ -370,9 +370,9 @@ p{
         font-size: 90%;
         line-height: 1;
     }
-    .hillside-background{
+    /*.hillside-background{
         background-color: paleturquoise;
-    }
+    }*/
     .lightblue-background{
         padding-top: 20%;
     }
@@ -405,18 +405,18 @@ p{
         font-size: 70%;
         line-height: 1.2;
     }
-    .valley-background{
+    /*.valley-background{
         background-color: moccasin;
-    }
+    }*/
     .white-background{
         padding-top: 20%;
     }
-    .lake-background{
+    /*.lake-background{
         background-color: moccasin;
     }
     .river-background{
         background-color: turquoise;
-    }
+    }*/
     .hillside-background, .lake-background, .river-background, .valley-background{
         background-image: none;
         background-attachment: scroll;
