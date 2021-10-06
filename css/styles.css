@@ -345,9 +345,9 @@ p{
         background-color: royalblue;
         border-color: royalblue;
     }
-    .CV-intro{
+    /*.CV-intro{
         color: black;
-    }
+    }*/
     img.skills-icons{
         width: 30%;
     }
@@ -355,9 +355,9 @@ p{
         font-size: 70%;
         line-height: 1.5;
     }
-    .intro_paragraph{
+    /*.intro_paragraph{
         color: black;
-    }
+    }*/
     .home-page-h1, .CV-page-h1{
         font-size: 230%;
         line-height: 0.8;
