@@ -417,9 +417,8 @@ p{
     }
     .river-background{
         background-color: turquoise;
-    }
-    .hillside-background, .lake-background, .river-background, .valley-background{
-        background-image: none;
-        background-attachment: scroll;
     }*/
+    .hillside-background, .lake-background, .river-background, .valley-background{
+        background-attachment: scroll;
+    }
 }
